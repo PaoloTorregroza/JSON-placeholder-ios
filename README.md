@@ -21,7 +21,7 @@ Run the app.
 
 I used MVVM in this application cause I think using VIPER can be overkill. MVVM gives me the perfect structural guide for an application of this size, I would use viper if the app was bigger and more propense to big changes.
 
-Alamofire turns out to be one of the easiest options to use and configure, only for that reason I decided to use this library
+Alamofire turns out to be one of the easiest options to use and configure, only for that reason I decided to use this library.
 
 ## Considerations
 
